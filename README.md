@@ -44,7 +44,7 @@ This project performs exploratory data analysis on a marketing campaign dataset 
 
 - `Business_Insights_EDA.ipynb` — Python analysis notebook
 - `Marketing_Analysis_Final.xlsx` — Final analysis results
-- `marketing_campaign_dataset.csv` — Marketing campaign dataset
+- `marketing_campaign_dataset.xlsx` — Marketing campaign dataset
 
 ## Conclusion
 
